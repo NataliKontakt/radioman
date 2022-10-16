@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="820fc780-b71a-49b7-9af3-31c06d6699b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/netology/radio/Radio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/radio/RadioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/radio/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/radio/Radio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/radio/RadioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/radio/RadioTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,23 +36,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_directory_selection": "C:/IT/Netologia/Java/Tasks/radioman/src/test/java",
-    "last_opened_file_path": "C:/IT/Netologia/Java/Tasks/Sindrom100",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/IT/Netologia/Java/Tasks/radioman/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/IT/Netologia/Java/Tasks/radioman&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn clean verify" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RadioTest.shouldPrevBy1RadioStationNumberFromMin">
+  <component name="RunManager" selected="JUnit.RadioTest">
     <configuration name="RadioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="radioman" />
       <extension name="coverage">
@@ -68,7 +68,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadioTest.shouldNotSetToMinSoundVolume" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RadioTest.shouldDecreaseBy1SoundVolumeFrom1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="radioman" />
       <extension name="coverage">
         <pattern>
@@ -78,13 +78,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="ru.netology.radio" />
       <option name="MAIN_CLASS_NAME" value="ru.netology.radio.RadioTest" />
-      <option name="METHOD_NAME" value="shouldNotSetToMinSoundVolume" />
+      <option name="METHOD_NAME" value="shouldDecreaseBy1SoundVolumeFrom1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadioTest.shouldPrevBy1RadioStationNumberFromMin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RadioTest.shouldDecreaseBy1SoundVolumeFrom11" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="radioman" />
       <extension name="coverage">
         <pattern>
@@ -94,13 +94,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="ru.netology.radio" />
       <option name="MAIN_CLASS_NAME" value="ru.netology.radio.RadioTest" />
-      <option name="METHOD_NAME" value="shouldPrevBy1RadioStationNumberFromMin" />
+      <option name="METHOD_NAME" value="shouldDecreaseBy1SoundVolumeFrom11" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadioTest.shouldSetMinRadioStationNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RadioTest.shouldPrevBy1RadioStationNumberFrom15" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="radioman" />
       <extension name="coverage">
         <pattern>
@@ -110,13 +110,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="ru.netology.radio" />
       <option name="MAIN_CLASS_NAME" value="ru.netology.radio.RadioTest" />
-      <option name="METHOD_NAME" value="shouldSetMinRadioStationNumber" />
+      <option name="METHOD_NAME" value="shouldPrevBy1RadioStationNumberFrom15" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RadioTest.shouldSetRadioStationNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RadioTest.shouldPrevBy1RadioStationNumberFromUnder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="radioman" />
       <extension name="coverage">
         <pattern>
@@ -126,7 +126,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="ru.netology.radio" />
       <option name="MAIN_CLASS_NAME" value="ru.netology.radio.RadioTest" />
-      <option name="METHOD_NAME" value="shouldSetRadioStationNumber" />
+      <option name="METHOD_NAME" value="shouldPrevBy1RadioStationNumberFromUnder" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -134,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RadioTest.shouldPrevBy1RadioStationNumberFromMin" />
-        <item itemvalue="JUnit.RadioTest.shouldSetMinRadioStationNumber" />
-        <item itemvalue="JUnit.RadioTest.shouldSetRadioStationNumber" />
         <item itemvalue="JUnit.RadioTest" />
-        <item itemvalue="JUnit.RadioTest.shouldNotSetToMinSoundVolume" />
+        <item itemvalue="JUnit.RadioTest.shouldDecreaseBy1SoundVolumeFrom11" />
+        <item itemvalue="JUnit.RadioTest.shouldDecreaseBy1SoundVolumeFrom1" />
+        <item itemvalue="JUnit.RadioTest.shouldPrevBy1RadioStationNumberFromUnder" />
+        <item itemvalue="JUnit.RadioTest.shouldPrevBy1RadioStationNumberFrom15" />
       </list>
     </recent_temporary>
   </component>
@@ -169,18 +169,8 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/ru/netology/radio/RadioTest.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/ru/netology/radio/RadioTest.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/ru/netology/radio/RadioTest.java</url>
-          <line>97</line>
-          <option name="timeStamp" value="4" />
+          <line>207</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
